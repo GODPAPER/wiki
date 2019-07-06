@@ -1,0 +1,2 @@
+# wiki
+wiki for GODPAPER
