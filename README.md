@@ -170,3 +170,6 @@
 ### 改头换面棋
 
  ❤Congrats you made it to bottom, that took some effort ❤
+
+gitbook: https://app.gitbook.com/@godpaper/s/godpaper/
+
